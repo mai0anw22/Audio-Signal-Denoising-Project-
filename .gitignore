@@ -1,1 +1,4 @@
-
+noisy_testset_wav/
+noisy_trainset_28spk_wav/
+filelist.csv
+filelist.txt
